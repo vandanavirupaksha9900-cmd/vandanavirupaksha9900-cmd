@@ -1,8 +1,13 @@
 ## Hi 👋,I'm vandana.v
-🖥️I'm currently learning c program
+🖥️I'm currently learning c program   
+
+
 😁how to reach me at vandanavirupaksha9900@gmail.com
+
 🤔ask me about c program, web developer
+
 😊I'm first year student
+
 🔎looking for intership
 
 <!--
