@@ -8,7 +8,7 @@
 
 😊I'm first year student
 
-🔎looking for intership
+🔎looking for internship
 
 <!--
 **vandanavirupaksha9900-cmd/vandanavirupaksha9900-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
